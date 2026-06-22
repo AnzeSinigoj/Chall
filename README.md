@@ -1,2 +1,4 @@
 # Chall
-University project for a TUI Linux permission changer
+Archivation of a university project for OS class.
+This is a TUI Linux permission changer.
+Bugs may be present.
